@@ -31,8 +31,8 @@ div#top_content {
 	div#top_content div#app_screenshot {
 		float: left;
 		width: 305px;
-		height: 530px;
-		background: url('../images/phone.png') no-repeat top left;
+		height: 508px;
+		background: url('../images/phone.jpg') no-repeat top left;
 
 	}
 		div#top_content div#app_screenshot div.price_badge{
@@ -45,8 +45,8 @@ div#top_content {
 		}
 		div#top_content div#app_screenshot .screencast {
 			float: left;
-			padding-top: 12px;
-			padding-left: 24px;
+			padding-top: 85px;
+			padding-left: 23px;
 		}
 	div#top_content div#app_description {
 		float: right;
